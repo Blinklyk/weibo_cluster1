@@ -6,3 +6,5 @@
 kmeans+LDA代码：cluster_LDA(1).ipynb
 
 频繁词集+LDA代码 : cluster_frequent_word_set/main.ipnyb
+
+实验报告有.doc 和.pdf两种格式
